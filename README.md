@@ -1,5 +1,4 @@
 Name: Gavin Christie
-Student ID: 0962255
 Email: gchristi@uoguelph.ca
 Date: October 22th 2017
 
@@ -27,6 +26,3 @@ different value, for example, this assignment uses 1-5 with 5 being least priori
 different application might require priority assignment of 1-10. In this implementation the comparePriority function is for
 insertSorted to determine order based on node priority and other functions that want to compare data can use the standard
 comapre function. (Note: Not sure if this is what is expected for the assignment)
-
-********** Starvations Algorithm **********
-Did not implement a starvation algorithm
